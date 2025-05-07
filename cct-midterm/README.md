@@ -116,7 +116,7 @@ Majority Vote (raw data) for each item:
   Item 19: 0
 
   Item 20: 1
-  
+
 
 **Interpretation**
 
@@ -125,8 +125,9 @@ The model yielded posterior mean competence estimates ranging from 0.56 (Informa
 This shows the CCT model's ability to reveal a "correct" answer which might otherwise be hidden by the opinions of less "competent" individuals in a majority vote.
 
 ## Issues
--I was unable to succesfully produce the plots, therefore could not visualize the results. My report is based on the printed output [inserted above] 
--I also had difficulty installing all libraries so I created a second (different) enviroment to re-install packages.
+I was unable to succesfully produce the plots, therefore could not visualize the results. My report is based on the printed output [inserted above]
+
+I also had difficulty installing all libraries so I created a second (different) enviroment to re-install packages.
 
 
 ## GitHub Repo Link:
