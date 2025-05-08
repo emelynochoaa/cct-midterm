@@ -31,9 +31,3 @@ Each item represents a question about plant knowledge, which has its own consens
 **Z & D**
 
 Since each informant's answer is weighted by competence, a reliable respondent may influence a question's consensus more. In the consensus graphs, the questions that are split are because the more competent informants are divided in their answers (e.g., Questions 4 and 12). If most competent respondents agree (e.g., Questions 0, 2, 3, 6, etc.), the bars will not be split, making only one visible (or taller). This illustrates how competence influences the consensus, as reflected in the graphs.
-
-
-
-## GitHub Repo Link:
-
-[(https://github.com/emelynochoaa/cct-midterm/tree/main/cct-midterm/data)]
