@@ -10,10 +10,13 @@ The Cultural Consensus Theory (CCT) model was implemented using a Bernoulli like
 
 **Results**
 
-![Consensus Model](./data/Figure1-CCT.png)
+POSTERIOR FOR INFORMANT COMPETENCE (D):
 
+![Informant Competence](./data/Figure1-CCT.png)
 
-![Consensus Model](./data/Figure2-CCT.png)
+POSTERIOR FOR CONSENSUS ANSWERS (Z):
+
+![Consensus Answers](./data/Figure2-CCT.png)
 
 **Interpretation**
 
