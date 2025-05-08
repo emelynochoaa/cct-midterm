@@ -41,11 +41,12 @@ def show_results(trace, data):
     for i, m in enumerate(majority, start=1):
         print(f"  Item {i}: {int(m)}")
     
-    az.plot_posterior(trace, var_names=["D"], credible_interval=0.95)
+    az.plot_posterior(trace, var_names=["D"])  
     plt.title("Posterior for Informant Competence (D)")
     plt.show()
+
     
-    az.plot_posterior(trace, var_names=["Z"], credible_interval=0.95)
+    az.plot_posterior(trace, var_names=["Z"])
     plt.title("Posterior for Consensus Answers (Z)")
     plt.show()
     
