@@ -53,7 +53,7 @@ def show_results(trace, data):
     print("\nModel Diagnostics Summary:")
     print(az.summary(trace, var_names=["D", "Z"]))
 
-#ChatGPT Acknowledgement: az_plot to plt.show imported from software. Still not working, unable to visualize results.
+#ChatGPT Acknowledgement: az_plot to plt.show imported from software, with adjustments to suggested "credible_interval" code.
 
 if __name__ == '__main__':
     script_dir = os.path.dirname(os.path.realpath(__file__))
